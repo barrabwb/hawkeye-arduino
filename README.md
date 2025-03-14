@@ -1,8 +1,10 @@
-# Hawkeye Arduino Sensors Code
+# Hawkeye ESP Sensors
 
 ## Project Overview
 
 Hawkeye is an integrated and publicly accessible web app dashboard system that collects real-time data on the accumulation of waste from a variety of different waste bins.
+
+![Back of Hawkeye](HawkeyeBack.jpg) ![Hawkeye being deployed example](HawkeyeDeployed.jpg)
 
 ## Technical Overview
 
